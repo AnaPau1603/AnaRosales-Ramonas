@@ -1,4 +1,9 @@
+body{
+  background-image: url("elBienVenció.jpg");
+  background-size: cover;
+}
 #azul{
+  font-size: 50px;
   color:#A3B1FF;
   background-color: #0019A7;
 }
