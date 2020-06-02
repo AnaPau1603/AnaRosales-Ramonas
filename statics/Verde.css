@@ -1,12 +1,17 @@
+body{
+  background-image: url("Elmo-en-llamas.jpg"); 
+}
 #verde {
   color: #C1FE92;
   background-color: #4DB100;
 }
 #naranja{
+  font-size: 50px;
   color: #FFC669;
   background-color: #E78F00;
 }
 #rojo{
+  font-size: 50px;
   color: #FFB198;
   background-color: #CC3200;
 }
