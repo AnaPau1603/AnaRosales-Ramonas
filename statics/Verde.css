@@ -1,4 +1,8 @@
+body{
+  background-image: url("Elmo-en-llamas.jpg");
+}
 #verde {
   color: #C1FE92;
   background-color: #4DB100;
+  font-size: 50px;
 }
